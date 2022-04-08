@@ -3,6 +3,11 @@
 
 @import 'config';
 
+@font-face {
+    font-family: 'PDMedium';
+    src: url(../../public/font/Pretendard-Medium.otf);
+  }
+
 @import 'bourbon/bourbon';
 
 @import 'base/poole';
