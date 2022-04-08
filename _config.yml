@@ -53,7 +53,7 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/mainPicture.png
-  caption: The harder you work, the more likely you can reach th goal.
+  caption: The harder you work, the more likely you can reach the goal.
 
 # Puglins
 mathjax: true # whether support mathjax
