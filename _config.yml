@@ -1,8 +1,8 @@
 # Site Info
-title: Codinfox Lanyon
+title: Seize The Day
 tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
-baseurl: "/lanyon"
+description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">1H3M</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+baseurl: ""
 url: http://A7x-syn.github.io
 logo: '/public/logo.png'
 
@@ -24,7 +24,7 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
+  name: 1H3M
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
