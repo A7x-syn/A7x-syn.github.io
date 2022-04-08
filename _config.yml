@@ -25,14 +25,14 @@ version: 1.0.0
 # About/contact
 author:
   name: 1H3M
-  description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
+  description: 최고다 밋치
   gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
+    # linkedin:  https://www.linkedin.com/in/lizhihao
     github:    https://github.com/A7x-syn
     # facebook:  <hide>
     twitter:   https://twitter.com/R_tinkyWinky
-    email:     matilto:kimdana741@gmail.com
+    # email:     matilto:kimdana741@gmail.com
 
 # Navigation (2nd level links supported)
 nav:
