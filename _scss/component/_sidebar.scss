@@ -52,8 +52,13 @@
   color: $white;
 }
 .sidebar-item {
-  padding: 1rem;
+  padding: 0.5rem;
 }
+
+.sidebar-item .powered {
+  font-size: .35rem;
+}
+
 .sidebar-item p:last-child {
   margin-bottom: 0;
 }
