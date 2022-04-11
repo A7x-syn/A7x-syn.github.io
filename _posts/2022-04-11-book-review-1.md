@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 개발자의 글쓰기 책 리뷰
-categories : Book Review
-tags: 책리뷰, 개발자의 글쓰기
+title: [리뷰] 개발자의 글쓰기
+categories : Book_Review
+tags: Book 개발자의 글쓰기
 ---
 
 ## 개발자의 글쓰기
 
 
-<img src="https://image.aladin.co.kr/product/20957/29/cover500/k512636276_1.jpg" style="zoom: 67%; text-align: center;"/>
+<img src="https://image.aladin.co.kr/product/20957/29/cover500/k512636276_1.jpg" style="zoom: 67%;"/>
 
 
 
@@ -32,8 +32,8 @@ tags: 책리뷰, 개발자의 글쓰기
 
 
 
-> 좋은 변수명 짓기
-> 릴리스 문서와 장애 보고서 쓰기
+> * 좋은 변수명 짓기
+> * 릴리스 문서와 장애 보고서 쓰기
 
 
 
@@ -57,11 +57,11 @@ tags: 책리뷰, 개발자의 글쓰기
 
 
 
-> [ ] easy to **S**earch
-> [ ] easy to **M**ix
-> [ ] easy to **A**gree
-> [ ] easy to **R**emember
-> [ ] easy to **T**ype
+- easy to **S**earch
+- easy to **M**ix
+- easy to **A**gree
+- easy to **R**emember
+- easy to **T**ype
 
 
 
