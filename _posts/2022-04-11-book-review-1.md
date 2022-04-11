@@ -7,8 +7,9 @@ tags: Book
 
 ## 개발자의 글쓰기
 
+[TOC]
 
-<img src="https://image.aladin.co.kr/product/20957/29/cover500/k512636276_1.jpg" style="zoom: 67%;"/>
+<img src="https://image.aladin.co.kr/product/20957/29/cover500/k512636276_1.jpg" alt="개발자의 글쓰기" style="zoom: 60%; display:block; margin:auto;"/>
 
 
 
@@ -75,7 +76,7 @@ tags: Book
 
 
 
-<img src="https://cdnweb01.wikitree.co.kr/webdata/editor/202009/15/img_20200915155321_3da4f7a7.webp" alt="유튜브 업데이트 창에 너무 '당황스러운' 문구가 떡하니 올라왔다 | 위키트리" style="zoom:50%;" />
+<img src="https://cdnweb01.wikitree.co.kr/webdata/editor/202009/15/img_20200915155321_3da4f7a7.webp" alt="유튜브 업데이트 창에 너무 '당황스러운' 문구가 떡하니 올라왔다 | 위키트리" style="zoom:50%; display:block; margin:auto;" />
 
 
 
