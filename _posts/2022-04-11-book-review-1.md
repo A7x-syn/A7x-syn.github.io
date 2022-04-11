@@ -1,8 +1,8 @@
 ---
 layout: post
-title: [리뷰] 개발자의 글쓰기
+title: 책리뷰 | 개발자의 글쓰기
 categories : Book_Review
-tags: Book 개발자의 글쓰기
+tags: Book
 ---
 
 ## 개발자의 글쓰기
