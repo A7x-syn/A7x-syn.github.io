@@ -6,15 +6,19 @@ tags: Book
 ---
 
 ## 개발자의 글쓰기
+* 💫 Summary(#Summary)
+* ✨ 좋은 변수명 짓기(#좋은-변수명-짓기)
+* ✨ 릴리스 문서와 장애 보고서 쓰기(#릴리스-문서와-장애-보고서-쓰기)
+* 💫 마치며...(#마치며...)
 
-[TOC]
+
 
 <img src="https://image.aladin.co.kr/product/20957/29/cover500/k512636276_1.jpg" alt="개발자의 글쓰기" style="zoom: 60%; display:block; margin:auto;"/>
 
 
 
 
-###### ☘ Summary
+###### 💫 Summary
 
 > 한줄평 : 개발자가 작성하는 글을 다양한 예시와 함께 설명해주는 책
 >
@@ -88,7 +92,7 @@ tags: Book
 
 
 
-###### ☘ 마치며...
+###### 💫 마치며...
 
 
 
