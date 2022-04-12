@@ -1,8 +1,5 @@
 var falling = true;
 
-TweenLite.set("#container",{perspective:600})
-//TweenLite.set("img",{xPercent:"-50%",yPercent:"-50%"})
-
 var total = 10;
 var container = document.getElementById("container"),	w = window.innerWidth , h = window.innerHeight;
  
