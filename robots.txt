@@ -1,0 +1,3 @@
+ User-agent: *
+ Allow: /
+ Sitemap: https://A7x-syn.github.io/sitemap.xml
