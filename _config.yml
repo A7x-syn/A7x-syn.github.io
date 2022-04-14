@@ -20,7 +20,7 @@ paginate: 5
 paginate_path: '/blog/page:num'
 permalink: pretty
 
-version: 1.1.2
+version: 1.1.1
 
 # About/contact
 author:
@@ -60,3 +60,12 @@ mathjax: true # whether support mathjax
 google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
 disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
 
+# 블로그 검색
+tipue_search:
+  include:
+    pages: false
+    collections: []
+  exclude:
+    files: [search.html, index.html]
+    categories: []
+    tags: []
