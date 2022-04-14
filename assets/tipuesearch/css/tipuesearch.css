@@ -61,7 +61,7 @@ http://www.tipue.com/search
 }
 
 .searchTerm:focus{
-  color: #ffc0cb;
+  color: #000000;
 }
 
 .searchButton {
@@ -76,14 +76,6 @@ http://www.tipue.com/search
   font-size: 20px;
 }
 
-/*Resize the wrap to see the search bar change!*/
-.searchWrap{
-/*   width: 30%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); */
-}
 
 /* search box */
 #tipue_search_input
