@@ -48,25 +48,27 @@ http://www.tipue.com/search
 }
 
 .searchTerm {
-  width: 100%;
-  border: 3px solid #00B4CC;
+  border: 3px solid #ffffff;
   border-right: none;
   padding: 5px;
-  height: 20px;
+  height: 2rem;
   border-radius: 5px 0 0 5px;
   outline: none;
-  color: #9DBFAF;
+  color: #ffffff;
+  max-width: 10rem;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
 }
 
 .searchTerm:focus{
-  color: #00B4CC;
+  color: #ffc0cb;
 }
 
 .searchButton {
-  width: 40px;
-  height: 36px;
-  border: 1px solid #00B4CC;
-  background: #00B4CC;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid rgba(255,255,255,0.1);
+  background: rgba(255,255,255,0.1);
   text-align: center;
   color: #fff;
   border-radius: 0 5px 5px 0;
