@@ -62,7 +62,7 @@ http://www.tipue.com/search
      border-radius: var(--rad);
    }
    
-   input, button {
+   #searchInput, #btnGo {
      height: var(--height);
      font-family: var(--font-fam);
      border: 0;
@@ -70,7 +70,7 @@ http://www.tipue.com/search
      font-size: 1.8rem;
    }
    
-   input[type=search] {
+   #searchInput[type=search] {
      outline: 0;
      width: 100%;
      background: var(--color-light);
@@ -83,7 +83,7 @@ http://www.tipue.com/search
      position: relative;
    }
    
-   button {
+   #btnGo {
      display: none;
      position: absolute;
      top: 0;
@@ -94,15 +94,15 @@ http://www.tipue.com/search
      border-radius: 0 var(--rad) var(--rad) 0;
    }
    
-   input:not(:placeholder-shown) {
+   #searchInput:not(:placeholder-shown) {
      border-radius: var(--rad) 0 0 var(--rad);
      width: calc(100% - var(--btn-width));
    }
-   input:not(:placeholder-shown) + button {
+   #searchInput:not(:placeholder-shown) + button {
      display: block;
    }
    
-   label {
+   #searchLable {
      position: absolute;
      clip: rect(1px, 1px, 1px, 1px);
      padding: 0;
