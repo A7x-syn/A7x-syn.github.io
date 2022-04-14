@@ -34,6 +34,29 @@
     </div>
   </div>
 
+  <form action="/search">
+   <!--  <div class="tipue_search_left">
+      <img src="/assets/tipuesearch/search.png" class="tipue_search_icon">
+    </div>
+    <div class="tipue_search_right">
+      <input type="text" name="q" id="tipue_search_input" pattern=".{1,}" title="At least 1 characters" required></div>
+    <div style="clear: both;"></div> -->
+
+    <div class="container">
+      <form autocomplete="off">
+        <div class="finder">
+          <div class="finder__outer">
+            <div class="finder__inner">
+              <div class="finder__icon" ref="icon"></div>
+              <input class="finder__input" type="text" name="q" />
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+
+  </form>
+
   <nav class="sidebar-nav">
     {% for nav in site.nav %}
       {% assign is_relative = nav[1][0] | slice: 0 %}
@@ -68,14 +91,7 @@
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
-  <form action="/search">
-    <div class="tipue_search_left">
-      <img src="/assets/tipuesearch/search.png" class="tipue_search_icon">
-    </div>
-    <div class="tipue_search_right">
-      <input type="text" name="q" id="tipue_search_input" pattern=".{1,}" title="At least 1 characters" required></div>
-    <div style="clear: both;"></div>
-  </form>
+
 
   <div class="sidebar-item">
     <p> &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. </p>
