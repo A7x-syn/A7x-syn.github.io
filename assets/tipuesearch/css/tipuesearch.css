@@ -77,12 +77,12 @@ http://www.tipue.com/search
 }
 
 /*Resize the wrap to see the search bar change!*/
-.wrap{
-  width: 30%;
+.searchWrap{
+/*   width: 30%;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); */
 }
 
 /* search box */
