@@ -50,21 +50,7 @@ http://www.tipue.com/search
      --btn-width: 6rem;
      --bez: cubic-bezier(0, 0, 0.43, 1.49);
    }
-   
-   body {
-     background: var(--color-dark);
-     display: flex;
-     align-items: center;
-     justify-content: center;
-     min-height: 100vh;
-   }
-   
-   html {
-     box-sizing: border-box;
-     height: 100%;
-     font-size: 10px;
-   }
-   
+
    *, *::before, *::after {
      box-sizing: inherit;
    }
